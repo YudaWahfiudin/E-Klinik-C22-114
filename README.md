@@ -6,7 +6,7 @@ Members are:
 3.	A009Y0083 - Reina Lamya
 4.	A246X0499 - Yuda Wahfiudin
 
-# Name File Capstone_C22_114.zip is our android studio project
-# Name File apisia.rar is a database that we use
+ Name File Capstone_C22_114.zip is our android studio project
+ Name File apisia.rar is a database that we use
 
 Play our presentation video for more information in this link https://youtu.be/AuF9V5TG1tQ
